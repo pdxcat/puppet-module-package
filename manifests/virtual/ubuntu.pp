@@ -383,7 +383,6 @@ class package::virtual::ubuntu {
     "octave":;
     "okular":;
     "okular-extra-backends":;
-    "open-iscsi":;
     "openjdk-6-jdk":;
     "openjdk-7-jdk":;
     "openoffice.org-calc":;
