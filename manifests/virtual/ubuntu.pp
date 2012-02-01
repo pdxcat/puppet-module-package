@@ -215,7 +215,7 @@ class package::virtual::ubuntu {
     "lha":                      ensure => latest;
     "lib32ncurses5-dev":;
     "lib32readline5-dev":;
-    "lib32z-dev":;
+    "lib32z-dev":               name => "lib32z1-dev";
     "libactiveldap-ruby1.8":;
     "libaio-dev":;
     "libaio1":;
