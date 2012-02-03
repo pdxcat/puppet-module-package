@@ -341,6 +341,7 @@ class package::virtual::ubuntu {
     "linux-headers-server":     ensure => latest;
     "linux-image-generic":      ensure => latest;
     "linux-image-server":       ensure => latest;
+    "linux-tools":;
     "lsscsi":;
     "lush":;
     "lush-library":;
