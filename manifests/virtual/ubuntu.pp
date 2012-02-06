@@ -490,6 +490,7 @@ class package::virtual::ubuntu {
     "python2.5":;
     "python3":;
     "pyzor":;
+    "qt-sdk":;
     "qt4-designer":;
     "qt4-dev-tools":;
     "qt4-qtconfig":;
