@@ -386,6 +386,7 @@ class package::virtual::ubuntu {
     "ocaml-mode":;
     "ocrad":;
     "octave":;
+    "octave-plot":;
     "okular":;
     "okular-extra-backends":;
     "openjdk-6-jdk":;
