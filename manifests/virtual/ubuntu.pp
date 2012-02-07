@@ -262,6 +262,7 @@ class package::virtual::ubuntu {
     "libgd2-xpm-dev":;
     "libgdal1-dev":;
     "libgl1-mesa-dev":;
+    "libglut3-dev":;
     "libgmp3-dev":;
     "libgmp3c2":;
     "libgsl0-dev":;
@@ -336,7 +337,9 @@ class package::virtual::ubuntu {
     "libusb-dev":;
     "libvirt-bin":;
     "libwxgtk2.6-dev":;
+    "libxi-dev":;
     "libxml2-dev":;
+    "libxmu-dev":;
     "linux-headers-generic":    ensure => latest;
     "linux-headers-server":     ensure => latest;
     "linux-image-generic":      ensure => latest;
