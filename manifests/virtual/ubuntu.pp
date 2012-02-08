@@ -93,7 +93,7 @@ class package::virtual::ubuntu {
     "elinks":;
     "emacs":;
     "emacs-goodies-el":;
-    "encfs":;   #166760
+    "encfs":;
     "enscript":;
     "erlang":;
     "erlang-base-hipe":;
