@@ -1,3 +1,8 @@
+# Deprecation Notice
+
+This module has been depricated for puppet-module-singleton.
+https://github.com/pdxcat/puppet-module-singleton
+
 # Packages module for Puppet
 
 ## Description
